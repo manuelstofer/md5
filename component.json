@@ -1,0 +1,11 @@
+{
+    "name": "md5",
+    "description": "",
+    "version": "0.1.0",
+    "keywords": [],
+    "dependencies": {},
+    "development": {},
+    "scripts": [
+        "index.js"
+    ]
+}
